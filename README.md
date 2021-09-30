@@ -1,10 +1,10 @@
 # NLP-project-Sentiment-Analysis-with-Sarcasm-Detection
 NLP summer project, using Sarcasm Detection to improve Sentiment score prediction.
 Including 4 parts:
-1) training a bert model for sarcasm detection
+1) Training a bert model for sarcasm detection
 - dataset: SemEval2018-Task3 (https://github.com/Cyvhee/SemEval2018-Task3)
 - model: bert (transformers)
-2) training a bert model for sentiment score prediction
+2) Training a bert model for sentiment score prediction
 - dataset: google-play-store-apps reviews data (https://www.kaggle.com/lava18/google-play-store-apps)
 - model: bert (transformers)
 3) Constructing a benchmark to measure how prediction model improve when using both sentiment polarity and sarcasm score as features
